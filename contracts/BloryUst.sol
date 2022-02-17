@@ -1,8 +1,9 @@
+
 pragma solidity ^0.8.0;
 
-contract BloryToken {
-    string  public name = "Blory Token";
-    string  public symbol = "BLR";
+contract BloryUst {
+    string  public name = "Blory UST";
+    string  public symbol = "bUST";
     uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
     uint8   public decimals = 18;
 
